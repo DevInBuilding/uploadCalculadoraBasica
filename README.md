@@ -1,6 +1,6 @@
 # Calculadora Básica
 
-##Calculadora básica com as operações matemáticas fundamentais, dentre elas:
+## Calculadora básica com as operações matemáticas fundamentais, dentre elas:
 
 1. Adição
 2. Subtração
